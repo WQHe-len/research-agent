@@ -4,6 +4,33 @@
 
 项目使用 Python、LangChain、DeepSeek 和 Streamlit 构建，重点实践 AI Agent 工作流、工具调用、RAG、证据管理与自动化报告生成。
 
+## 项目演示
+
+### 1. 项目首页与研究流程
+
+![项目首页与研究流程](screenshots/research-agent-demo-1.png)
+
+### 2. 研究报告
+
+![研究报告](screenshots/research-agent-demo-2.png)
+
+### 3. 研究计划
+
+![研究计划](screenshots/research-agent-demo-3.png)
+
+### 4. 证据与来源
+
+![证据与来源](screenshots/research-agent-demo-4.png)
+
+### 5. 引用来源
+
+![引用来源](screenshots/research-agent-demo-5.png)
+
+### 6. 报告下载
+
+![报告下载](screenshots/research-agent-demo-6.png)
+
+
 ## 一、项目功能
 
 * **Research Planning**：将复杂研究问题拆解为多个可执行的研究子任务。
