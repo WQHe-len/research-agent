@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Generated files
+vector_db/
+*.docx
+*.pdf
+
+# Test artifacts
+.pytest_cache/
+.coverage
+# macOS
+.DS_Store
+
+# Test and coverage artifacts
+htmlcov/
+*.log
