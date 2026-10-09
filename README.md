@@ -17,6 +17,36 @@
 * **Report Export**：支持下载 Markdown 和 Word 格式的研究报告。
 * **Web UI**：通过 Streamlit 提供浏览器交互界面。
 
+  
+## 项目演示
+
+Research Agent 提供从研究问题输入、研究计划生成、证据收集、引用校验到研究报告生成与导出的完整流程。
+
+### 1. 项目首页与研究流程
+
+![项目首页与研究流程](screenshots/research-agent-demo-1.png)
+
+### 2. 自动生成研究报告
+
+![研究报告](screenshots/research-agent-demo-2.png)
+
+### 3. 研究计划
+
+![研究计划](screenshots/research-agent-demo-3.png)
+
+### 4. 证据与来源
+
+![证据与来源](screenshots/research-agent-demo-4.png)
+
+### 5. 引用来源与校验
+
+![引用来源与校验](screenshots/research-agent-demo-5.png)
+
+### 6. 报告下载与导出
+
+![报告下载与导出](screenshots/research-agent-demo-6.png)
+
+
 ## 二、系统架构
 
 ```text
